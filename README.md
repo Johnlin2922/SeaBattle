@@ -15,3 +15,6 @@ After a few turns, your tracking grid should start to resemble your opponents pr
 ![alt text](https://github.com/Johnlin2922/SeaBattle/blob/master/Screenshots/9.JPG "initial screen")![alt text](https://github.com/Johnlin2922/SeaBattle/blob/master/Screenshots/10.JPG "initial screen")
 
 The ship counter is displayed every turn. Once it reaches 0 for your opponent, then you've won!
+
+##Notes
+The main game logic was simple to code, However, the random distribution of the ships was not. The main problem was the ships kept overlapping. I had to use a for loop to check for emepty space while populating the grid with the ship. Trying to figure out how to navigate the grid was difficult. I had to figure out if the "X" or "Y" goes first and which represented row or column. 
