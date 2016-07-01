@@ -13,4 +13,5 @@ Once initiated, the game will print two grids for each player. The primary grid 
 After a few turns, your tracking grid should start to resemble your opponents primary grid. This will give you a general idea of where to attack next. 
 
 ![alt text](https://github.com/Johnlin2922/SeaBattle/blob/master/Screenshots/9.JPG "initial screen")![alt text](https://github.com/Johnlin2922/SeaBattle/blob/master/Screenshots/10.JPG "initial screen")
+
 The ship counter is displayed every turn. Once it reaches 0 for your opponent, then you've won!
