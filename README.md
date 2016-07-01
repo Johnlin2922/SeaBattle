@@ -9,3 +9,7 @@ This is a two player game to make sure to open two instances on two machines. Th
 Once initiated, the game will print two grids for each player. The primary grid is 9 ships of set sizes in a random assorment. The tracking grid is used to keep track of where you have attempted to hit. it will automatically be filled with "X" and "/" for hit and miss. Keep in mind that this very dependent on verbal communication between the two players. 
 
 ![alt text](https://github.com/Johnlin2922/SeaBattle/blob/master/Screenshots/7.JPG "initial screen")![alt text](https://github.com/Johnlin2922/SeaBattle/blob/master/Screenshots/8.JPG "initial screen")
+
+After a few turns, your tracking grid should start to resemble your opponents primary grid. This will give you a general idea of where to attack next. 
+![alt text](https://github.com/Johnlin2922/SeaBattle/blob/master/Screenshots/9.JPG "initial screen")![alt text](https://github.com/Johnlin2922/SeaBattle/blob/master/Screenshots/10.JPG "initial screen")
+The ship counter is displayed every turn. Once it reaches 0 for your opponent, then you've won!
